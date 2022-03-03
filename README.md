@@ -1,5 +1,9 @@
 HI! This is Songwoo Kim
 
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
+
+
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
 Web 🐥
@@ -37,6 +41,8 @@ ML 🐣
 - 
 Algorithms 🐣
 -
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19)
+- One Day One Solve !
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
