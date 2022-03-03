@@ -1,8 +1,8 @@
-HI!
+HI! This is Songwoo Kim
 
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
-Web
+Web 🐥
 - Random Quote Machine 
   - my first web app
   - with React
@@ -17,7 +17,10 @@ Web
 - Public Dog Playground Reservation Service
   - currently, the list of public dog playground is written only by hand.
   - with Spring boot, JPA, Security, Thyleaf, MySQL
-    - plan to do : 1. change Thyleaf to React given authentication method not session but JWT  2. add Message Queue ?
+    - plan to do
+      1. change Thyleaf to React given authentication method not session but JWT
+      2. how about to add Message Queue ? (Rabbit MQ, kafka.. this part need to study more )
+      3. how about to add distribution management system ? (load balancer or AWS... need to study more too)
   - this project is deployed by git_actions and managed by docker virtual in ubuntu(AWS EC2 instance)
     - plan to do : git_actions to jankins 
     - https://github.com/Yanlecun/dockerfile_ubuntu
@@ -28,5 +31,10 @@ Web
    - with React, Nodejs, NoSQL
    - https://github.com/Yanlecun/youtubeClone
 
-ML
--
+ML 🐣
+- 
+
+Algorithms 🐣
+- https://solved.ac/profile/thddn19
+- https://www.acmicpc.net/user/thddn19
+- https://www.codewars.com/users/Yanlecun
