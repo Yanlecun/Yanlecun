@@ -3,6 +3,7 @@ HI! This is Songwoo Kim
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
 Web 🐥
+-
 - Random Quote Machine 
   - my first web app
   - with React
@@ -24,7 +25,7 @@ Web 🐥
   - this project is deployed by git_actions and managed by docker virtual in ubuntu(AWS EC2 instance)
     - plan to do : git_actions to jankins 
     - https://github.com/Yanlecun/dockerfile_ubuntu
-  - http://3.37.91.0:3000/
+  - http://3.37.91.0:8080/ (page_admin auth : admin/1111, playground_manager : manager/1111, temp_user : user/1111)
 
  - Youtube Clone App (pauesd)
    - video site with video_upload, comment, subscribe and so on..
@@ -33,8 +34,9 @@ Web 🐥
 
 ML 🐣
 - 
-
+- 
 Algorithms 🐣
+-
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
