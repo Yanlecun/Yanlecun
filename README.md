@@ -41,14 +41,16 @@ Web 🐥
    - git repo : https://github.com/Yanlecun/youtubeClone
 
 ML 🐣
-- Transcribing Notebooks
-  - 
-  - New-York Taxi Deman prediction 
 - 
+- Transcribing Notebooks
+  - https://github.com/Yanlecun/intro_ml_notebooks
+    - New-York Taxi Deman prediction 
+    - Titanic - machine learning from disaster
+    
 Algorithms 🐣
 -
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19)
-One Day One Solve !
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19) <br>
+One Day One Solve.. but often refer the other's answer 
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
