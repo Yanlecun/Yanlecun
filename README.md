@@ -1,22 +1,19 @@
 HI! This is Songwoo Kim
 
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
-
-
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
 Web 🐥
 - 
 - Random Quote Machine  (http://3.37.91.0:3000/)
   - info : my first web app
-  - tools with : React
+  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   - git repo : https://github.com/Yanlecun/random_quote
   
-- Movie Ranking App
+- Movie Ranking App<br>
   - info : webapp with login, register, bookmark ..
-  - tools with : React, Nodejs, Express.js, NoSQL
-  - git repo : https://github.com/Yanlecun/movieApp
+  - tools with : react, nodeJS, expressJS, MongoDB
+  - git repo : https://github.com/Yanlecun/movieApp 
+
  
 - Public Dog Playground Reservation Service (http://3.37.91.0:8080/)
   - info : currently, the list of public dog playground is written only by hand.
@@ -54,3 +51,7 @@ One Day One Solve.. but often refer the other's answer
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
+
+
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
