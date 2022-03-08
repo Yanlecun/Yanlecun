@@ -1,4 +1,4 @@
-HI! This is Songwoo Kim
+HI! This is Songwoo
 
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
@@ -41,9 +41,10 @@ ML 🐣
 - 
 - Transcribing Notebooks
   - https://github.com/Yanlecun/intro_ml_notebooks
-    - New-York Taxi Deman prediction 
+    - New-York Taxi Demand prediction 
     - Titanic - machine learning from disaster
-    
+    - Credit Card Fraud
+
 Algorithms 🐣
 -
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19) <br>
