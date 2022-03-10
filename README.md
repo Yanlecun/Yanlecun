@@ -17,7 +17,7 @@ Web 🐥
  
 - Public Dog Playground Reservation Service (http://3.37.91.0:8080/)
   - info : currently, the list of public dog playground is written only by hand.
-  - tools with : Spring boot, JPA, Security, Thyleaf, MySQL
+  - tools with : Spring boot, JPA, Security, Thymeleaf, MySQL
     - plan to do
       1. change Thyleaf to React given authentication method not session but JWT
       2. how about to add Message Queue ? (Rabbit MQ, kafka.. this part need to study more )
