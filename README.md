@@ -45,10 +45,16 @@ ML 🐣
     - Titanic - machine learning from disaster
     - Credit Card Fraud
 
+MLOps 🐣
+-
+- MLFlow
+  - https://github.com/Yanlecun/intro_ml_notebooks
+    - MLFlow 테스트
+
 Algorithms 🐣
 -
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19) <br>
-One Day One Solve.. but often refer the other's answer 
+One Day One Solve! but often refer the other's answer 
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
