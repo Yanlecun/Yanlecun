@@ -26,7 +26,7 @@ Web 🐥
   - git repo : (removed)
   - FYI
     - this project is deployed by git_actions and managed by docker virtual in ubuntu (AWS EC2 instance)
-      - plan to do : git_actions to jankins 
+      - plan to do : change git_actions to jankins 
       - git repo : https://github.com/Yanlecun/dockerfile_ubuntu
     - test account
       - admin auth : 
