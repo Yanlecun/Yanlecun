@@ -60,6 +60,13 @@ One Day One Solve! but often refer the other's answer
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
 
+And so on
+-
+- Corona Safe Restaurant App
+  - https://github.com/Yanlecun/final-project-corona-restaurant-app
+- Spring Security/JPA study log
+  - https://github.com/Yanlecun/BookManager
+  - https://github.com/Yanlecun/spring-security
 
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
