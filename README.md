@@ -8,12 +8,12 @@ Web 🐥
 - Random Quote Machine  (http://3.37.91.0:3000/)
   - info : my first web app
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  - git repo : https://github.com/Yanlecun/random_quote
+  - git repo : https://github.com/thddn19/random_quote
   
 - Movie Ranking App<br>
   - info : webapp with login, register, bookmark ..
   - tools with : react, nodeJS, expressJS, MongoDB
-  - git repo : https://github.com/Yanlecun/movieApp 
+  - git repo : https://github.com/thddn19/movieApp 
 
  
 - Public Dog Playground Reservation Service (http://3.37.91.0:8080/)
@@ -27,7 +27,7 @@ Web 🐥
   - FYI
     - this project is deployed by git_actions and managed by docker virtual in ubuntu (AWS EC2 instance)
       - plan to do : change git_actions to jankins 
-      - git repo : https://github.com/Yanlecun/dockerfile_ubuntu
+      - git repo : https://github.com/thddn19/dockerfile_ubuntu
     - test account
       - admin auth : 
       - manager_auth : manager/1111
@@ -36,12 +36,12 @@ Web 🐥
  - Youtube Clone App (pauesd)
    - info : video site with video_upload, comment, subscribe and so on..
    - tools with : React, Nodejs, NoSQL
-   - git repo : https://github.com/Yanlecun/youtubeClone
+   - git repo : https://github.com/thddn19/youtubeClone
 
 ML 🐣
 - 
 - Transcribing Notebooks
-  - https://github.com/Yanlecun/intro_ml_notebooks
+  - https://github.com/thddn19/intro_ml_notebooks
     - New-York Taxi Demand prediction 
     - Titanic - machine learning from disaster
     - Credit Card Fraud
@@ -49,7 +49,7 @@ ML 🐣
 MLOps 🐣
 -
 - MLFlow
-  - https://github.com/Yanlecun/intro_ml_notebooks
+  - https://github.com/thddn19/intro_ml_notebooks
     - MLFlow 테스트
 
 Algorithms 🐣
@@ -63,10 +63,10 @@ One Day One Solve! but often refer the other's answer
 And so on
 -
 - Corona Safe Restaurant App
-  - https://github.com/Yanlecun/final-project-corona-restaurant-app
+  - https://github.com/thddn19/final-project-corona-restaurant-app
 - Spring Security/JPA study log
-  - https://github.com/Yanlecun/BookManager
-  - https://github.com/Yanlecun/spring-security
+  - https://github.com/thddn19/BookManager
+  - https://github.com/thddn19/spring-security
 
 ![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
