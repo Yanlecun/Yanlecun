@@ -68,5 +68,5 @@ And so on
   - https://github.com/thddn19/BookManager
   - https://github.com/thddn19/spring-security
 
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanlecun&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanlecun&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=thddn19&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thddn19&layout=compact&theme=dark&langs_count=8)](https://github.com/yanlecun/github-readme-stats)
