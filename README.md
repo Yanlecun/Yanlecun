@@ -23,7 +23,7 @@ Web 🐥
       1. change Thyleaf to React given authentication method not session but JWT
       2. how about to add Message Queue ? (Rabbit MQ, kafka.. this part need to study more )
       3. how about to add distribution management system ? (load balancer or AWS... need to study more too)
-  - git repo : (removed)
+  - git repo : https://github.com/thddn19/pet-public-playground-reservation-web
   - FYI
     - this project is deployed by git_actions and managed by docker virtual in ubuntu (AWS EC2 instance)
       - plan to do : change git_actions to jankins 
