@@ -55,7 +55,7 @@ MLOps 🐣
 Algorithms 🐣
 -
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19) <br>
-One Day One Solve! but often refer the other's answer 
+One Day One Solve(12/29~4/8, )
 - https://solved.ac/profile/thddn19
 - https://www.acmicpc.net/user/thddn19
 - https://www.codewars.com/users/Yanlecun
