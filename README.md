@@ -45,7 +45,9 @@ ML 🐣
     - New-York Taxi Demand prediction 
     - Titanic - machine learning from disaster
     - Credit Card Fraud
-
+- DNN Basic Study
+  - https://github.com/thddn19/DNNPortfolio-2021-2-2-/blob/main/%EA%B9%80%EC%86%A1%EC%9A%B0-20185046-DNN-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.ipynb
+  
 MLOps 🐣
 -
 - MLFlow
