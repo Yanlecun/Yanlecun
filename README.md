@@ -3,7 +3,7 @@ HI! This is Songwoo
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
 
-Web 🐥
+Web 
 - 
 - Random Quote Machine  (http://3.37.91.0:3000/)
   - info : my first web app
@@ -38,7 +38,7 @@ Web 🐥
    - tools with : React, Nodejs, NoSQL
    - git repo : https://github.com/thddn19/youtubeClone
 
-ML 🐣
+ML 
 - 
 - Transcribing Notebooks
   - https://github.com/thddn19/intro_ml_notebooks
@@ -48,13 +48,13 @@ ML 🐣
 - DNN Basic Study
   - https://github.com/thddn19/DNNPortfolio-2021-2-2-/blob/main/%EA%B9%80%EC%86%A1%EC%9A%B0-20185046-DNN-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.ipynb
   
-MLOps 🐣
+MLOps 
 -
 - MLFlow
   - https://github.com/thddn19/intro_ml_notebooks
     - MLFlow 테스트
 
-Algorithms 🐣
+Algorithms 
 -
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thddn19)](https://solved.ac/thddn19) <br>
 One Day One Solve(12/29~4/8, )
