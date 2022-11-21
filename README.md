@@ -1,5 +1,3 @@
-HI! This is Songwoo
-
 I'm Interested in Backend Dev and DevOps/MLOps and ML
 
 
