@@ -1,4 +1,4 @@
-Read.me 작성해야함
+Read.me 작성 해야될 것들
 
 
 Web 
