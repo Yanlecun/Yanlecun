@@ -5,35 +5,24 @@ Web
 - 
 - Random Quote Machine  (http://3.37.91.0:3000/)
   - info : my first web app
-  - 
+  - https://github.com/songwookim/random_quote <br>
 <span style="display:inline-block;">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </span>
-  - git repo : https://github.com/songwookim/random_quote
   
 - Movie Ranking App<br>
   - info : webapp with login, register, bookmark ..
-  - 
+  - https://github.com/songwookim/movieApp <br>
 <span style="display:inline-block;">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </span>
-  - https://github.com/songwookim/movieApp 
 
- 
 - Public Dog Playground Reservation Service (http://3.37.91.0:8080/)
   - info : currently, the list of public dog playground is written only by hand.
-  -
-<span style="display:inline-block;">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/springjpa-6DB33F?style=for-the-badge&logo=springjpa&logoColor=white">
-<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-<img src="https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-</span>
-    - plan to do
+  - plan to do
       1. change Thyleaf to React given authentication method not session but JWT
       2. how about to add Message Queue ? (Rabbit MQ, kafka.. this part need to study more )
       3. how about to add distribution management system ? (load balancer or AWS... need to study more too)
@@ -41,19 +30,26 @@ Web
   - FYI
     - this project is deployed by git_actions and managed by docker virtual in ubuntu (AWS EC2 instance)
       - plan to do : change git_actions to jankins 
-      - git repo : https://github.com/songwookim/dockerfile_ubuntu
+      - git repo : https://github.com/songwookim/dockerfile_ubuntu <br>
+<span style="display:inline-block;">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springjpa-6DB33F?style=for-the-badge&logo=springjpa&logoColor=white">
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/thymeleaf-339933?style=for-the-badge&logo=thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+</span>
+
 
  - Youtube Clone App (pauesd)
    - info : video site with video_upload, comment, subscribe and so on..
-   - 
+   - https://github.com/songwookim/youtubeClone <br>
 <span style="display:inline-block;">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </span>
-   - git repo : https://github.com/songwookim/youtubeClone
-
+<br> 
 ML 
 - 
 - Transcribing Notebooks
